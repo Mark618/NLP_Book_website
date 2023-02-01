@@ -6,7 +6,7 @@ Build web application with Django, HTML and CSS.
 Using sqlite for saving csv data into it
 
 # NLP 
-Summarize plot summary using Spacy library 
-  -User able to shorten plot summary base on their preferences
-Book recommendation
-  -Recommend book based on the current book
+1. Summarize plot summary using Spacy library 
+    - User able to shorten plot summary base on their preferences
+2. Book recommendation
+    - Recommend book based on the current book
